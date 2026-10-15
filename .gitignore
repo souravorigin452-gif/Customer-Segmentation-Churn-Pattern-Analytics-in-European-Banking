@@ -1,0 +1,7 @@
+# Local project data; upload through the app when needed
+data/European_Bank.csv
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
